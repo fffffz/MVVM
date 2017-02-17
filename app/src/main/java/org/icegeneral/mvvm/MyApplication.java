@@ -3,6 +3,7 @@ package org.icegeneral.mvvm;
 import android.app.Application;
 
 import com.facebook.drawee.backends.pipeline.Fresco;
+import com.squareup.leakcanary.LeakCanary;
 
 import org.icegeneral.mvvm.data.DiskCache;
 import org.icegeneral.mvvm.data.DiskCacheConfiguration;
@@ -16,10 +17,10 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-//        if (LeakCanary.isInAnalyzerProcess(this)) {
-//            return;
-//        }
-//        LeakCanary.install(this);
+        if (LeakCanary.isInAnalyzerProcess(this)) {
+            return;
+        }
+        LeakCanary.install(this);
         Thread.setDefaultUncaughtExceptionHandler(new MyUncaughtExceptionHandler());
         Fresco.initialize(this);
         DiskCacheConfiguration diskCacheConfiguration = DiskCacheConfiguration.createDefault(getFilesDir());

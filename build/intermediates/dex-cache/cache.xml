@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b035ef5786515c392829e9fc45994ebfe58e35ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.9.0_b3526137dec66a76d910b5ff99c693c389db6fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
         jumboMode="false"
         optimize="true"
@@ -18,6 +36,24 @@
         revision="24.0.0"
         sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/dagger-2.8_518a6fc4a6cce6f97ab20e6638d63a08cb634654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_03b0e4bc231f2fbac5f7f30d6d5e1cfef962de74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_809dd5f417835a6c906ddf88c51f8425866c459e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,165 +111,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_894d384097c9ab041821c23e914db908bf4ab41e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/MVVM/data/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ba7a50bafae4a1842d3e0ff0aa816879a6e548ab">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/MVVM-data-unspecified_4dc4b7b13aca1a9d53055cb9fdb0639c52e09203.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_a9db85eb21620a59f7a7eea322ebc9b5884d4c59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_79e58f5bdb2f0f8f66b695eda90381bddffe198d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_3d6aa5229fd9f03aafb5d3e031429bf4191704f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_19f09ca8d751839cb17054bf7c0a9ddd7c01948c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d75f52583db635472d1147e8d0c4da0667506936.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_2f1b93d46eca95aac9b4df040568ea22ed693ceb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_699e45c7c146070b7b951c2a8c6bdb695fa2be9c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_8a4ab562e99f3fd3c5a32892b02e8a8e41c55164.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/library-2.4.0_b43b5a5a9a0c05a382fba525a269292a72ad8837.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/me.tatarka.bindingcollectionadapter/bindingcollectionadapter/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="33193cf5e257163fc866db67128e55fe70fe2142">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/me.tatarka.bindingcollectionadapter-bindingcollectionadapter-1.3.0_b98d9480952bd3dfd10117bd97bed71396b71b59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_fbf54d417f92dc31fe4db6a8410d97c8a56dca57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b035ef5786515c392829e9fc45994ebfe58e35ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.9.0_b3526137dec66a76d910b5ff99c693c389db6fb7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_03b0e4bc231f2fbac5f7f30d6d5e1cfef962de74.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
-        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_809dd5f417835a6c906ddf88c51f8425866c459e.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.9.0_b9e0cf9c40bd23896f12c2c99ca18f160a0758d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_894d384097c9ab041821c23e914db908bf4ab41e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -252,6 +144,24 @@
         revision="24.0.0"
         sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_adf7a06024e4053309f91d87d99497ecc50c52fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/MVVM/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7ed2ab034a2e7aa8971e465a6a8eae770128a410">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/MVVM-data-unspecified_4dc4b7b13aca1a9d53055cb9fdb0639c52e09203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_a9db85eb21620a59f7a7eea322ebc9b5884d4c59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -291,12 +201,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_79e58f5bdb2f0f8f66b695eda90381bddffe198d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/design/24.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="8620c018c108eed501bbdb85324b79136373ea44">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.0_902fd851c0df2858f53a9dfee0342ea303138b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_3d6aa5229fd9f03aafb5d3e031429bf4191704f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_19f09ca8d751839cb17054bf7c0a9ddd7c01948c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d75f52583db635472d1147e8d0c4da0667506936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_2f1b93d46eca95aac9b4df040568ea22ed693ceb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -327,6 +282,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_699e45c7c146070b7b951c2a8c6bdb695fa2be9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -342,6 +306,33 @@
         revision="24.0.0"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_202b72759eb2949d77d3a0c8f205e41212b45490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_8a4ab562e99f3fd3c5a32892b02e8a8e41c55164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/library-2.4.0_b43b5a5a9a0c05a382fba525a269292a72ad8837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/me.tatarka.bindingcollectionadapter/bindingcollectionadapter/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="33193cf5e257163fc866db67128e55fe70fe2142">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/me.tatarka.bindingcollectionadapter-bindingcollectionadapter-1.3.0_b98d9480952bd3dfd10117bd97bed71396b71b59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -378,6 +369,15 @@
         revision="24.0.0"
         sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
         <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.5_74d960604e7203f2391879a6160d61cf28ec0d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/jianjun.lin/Code/MVVM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_fbf54d417f92dc31fe4db6a8410d97c8a56dca57.jar" />
     </item>
 
 </items>
