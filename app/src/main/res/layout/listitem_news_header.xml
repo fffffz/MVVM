@@ -5,7 +5,7 @@
 
         <variable
             name="viewModel"
-            type="org.icegeneral.mvvm.viewmodel.ItemViewModel"/>
+            type="com.fffz.mvvm.viewmodel.ItemViewModel"/>
     </data>
 
 

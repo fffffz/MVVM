@@ -6,9 +6,9 @@
 
         <variable
             name="viewModel"
-            type="org.icegeneral.mvvm.viewmodel.TopItemViewModel"/>
+            type="com.fffz.mvvm.viewmodel.TopItemViewModel"/>
 
-        <import type="org.icegeneral.mvvm.R"/>
+        <import type="com.fffz.mvvm.R"/>
     </data>
 
     <FrameLayout
